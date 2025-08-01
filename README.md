@@ -35,7 +35,7 @@ This repository contains the completed tasks from the **Citi Finance Virtual Int
 - Assessed impact of Omicron variant on monthly revenue fluctuations.
 - Used Power BI visuals to detect patterns, identify outliers, and propose analysis-driven suggestions.
 
-📁 Folder: [`Citi_Task_3_Omicron_Impact_Analysis`](./Citi_Task_3_Omicron_Impact_Analysis)
+📁 Folder: [`Task_3_Omicron_Impact_Analysis`](./Task_3_Omicron_Impact_Analysis)
 
 **Deliverables:**
 - ✅ Slide screenshots (PNG)
