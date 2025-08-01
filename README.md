@@ -44,16 +44,17 @@ This repository contains the completed tasks from the **Citi Finance Virtual Int
 
 ---
 
-### 📌 Task 4 – Monthly Limits & Deposits Tracking Report
-- Investigated monthly EWT and MAT breaches using historical deposit data.
-- Created an internal report highlighting high-risk entities and proposed escalation measures.
+### 📉 Task 4 – Monthly Limits & Deposits Tracking Report
+- Created a professional summary to track **monthly deposit limits**, surplus triggers, and reporting risks.
+- Used Excel data and PDF report formats to simulate real-world compliance documentation.
 
-📁 Folder: [`Citi_Task_4_Monthly_Limits_Report`](./Citi_Task_4_Monthly_Limits_Report)
+📁 Folder: [`Task_4_Monthly_Limits_Deposits_Report`](./Task_4_Monthly_Limits_Deposits_Report)
 
 **Deliverables:**
-- ✅ Risk triggers report (PDF)
-- ✅ Visual screenshots (PNG)
-- ✅ README with visuals and breakdown
+- ✅ Deposit Report PDF
+- ✅ Screenshot slides (PNG)
+- ✅ README with visual preview
+
 
 ---
 ## 🔧 Tools & Skills Demonstrated
