@@ -10,4 +10,4 @@
 - Reporting KPIs using Power BI
 - Revenue vouching and trend tracking
 
-![Citi Finance Certificate](./Citi_Finance_Certificate.png)
+[Citi Finance Virtual Internship – Forage](./Certifications/Citi_Finance_Certificate.png)
