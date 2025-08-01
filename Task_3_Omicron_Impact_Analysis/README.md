@@ -10,7 +10,7 @@ This task is part of the Citi Finance Virtual Internship and focuses on evaluati
 - `CITI TASK3 S3.png` – Slide 3: Impact summary and analysis
 - ![Slide 3](./CITI_TASK3_S3.png)
 - `Risk_Triggers_Surplus_Tracking_Report_Jan-Feb2023.pdf` – Final consolidated report submission
-[📄 Risk_Triggers_Surplus_Tracking_Report_Jan-Feb2023.pdf](./Risk_Triggers_Surplus_Tracking_Report_Jan-Feb2023.pdf)
+[📄 Citi_Task_3_Omicron_Impact_Analysis_Rajathesh_H_M.pdf](Citi_Task_3_Omicron_Impact_Analysis_Rajathesh_H_M.pdf)
 
 ## 🔍 Objective
 Analyze how the Omicron variant influenced deposit flows, surplus fluctuations, and early warning triggers across key entities using January–February 2023 data.
