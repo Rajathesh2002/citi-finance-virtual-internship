@@ -43,7 +43,8 @@ This repository contains the completed tasks from the **Citi Finance Virtual Int
 ## 🧾 License & Credits
 This internship project was completed via ## 🏆 Certifications
 
-### 🏅 Certificate:
-![Citi Finance Certificate](Citi_Finance_Forage/Citi_Finance_Certificate.png)
+### 🏅 Certificate:### 🏅 Certificate:
+![Citi Finance Certificate](citi-finance-virtual-internship/Certifications/Citi_Finance_Certificate.png)
+
  and is based on publicly available learning content provided by Citi for educational purposes.
 
