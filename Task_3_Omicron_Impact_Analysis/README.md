@@ -4,11 +4,11 @@ This task is part of the Citi Finance Virtual Internship and focuses on evaluati
 
 ## 📁 Files Included
 - `CITI TASK3 S1.png` – Slide 1: Introduction and objective
--  ![Slide 1](./CITI TASK3 S1.png)
+- ![Slide 1](./CITI_TASK3_S1.png)
 - `CITI TASK3 S2.png` – Slide 2: Key metrics and financial trends
-- ![Slide 2](./CITI TASK3 S2.png)
+- ![Slide 2](./CITI_TASK3_S2.png)
 - `CITI TASK3 S3.png` – Slide 3: Impact summary and analysis
-- ![Slide 3](./CITI TASK3 S3.png)
+- ![Slide 3](./CITI_TASK3_S3.png)
 - `Risk_Triggers_Surplus_Tracking_Report_Jan-Feb2023.pdf` – Final consolidated report submission
 [📄 Risk_Triggers_Surplus_Tracking_Report_Jan-Feb2023.pdf](./Risk_Triggers_Surplus_Tracking_Report_Jan-Feb2023.pdf)
 
