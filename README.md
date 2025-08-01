@@ -41,5 +41,8 @@ This repository contains the completed tasks from the **Citi Finance Virtual Int
 ---
 
 ## 🧾 License & Credits
-This internship project was completed via [Forage](https://www.theforage.com/) and is based on publicly available learning content provided by Citi for educational purposes.
+This internship project was completed via ## 🏆 Certifications
+
+- [Citi Finance Virtual Internship – Forage](./Certifications/Citi_Finance_Certificate.jpg)
+ and is based on publicly available learning content provided by Citi for educational purposes.
 
