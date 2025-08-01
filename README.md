@@ -31,7 +31,31 @@ This repository contains the completed tasks from the **Citi Finance Virtual Int
 - ✅ Screenshot and README
 
 ---
+### 📉 Task 3 – Omicron Impact Revenue Analysis
+- Assessed impact of Omicron variant on monthly revenue fluctuations.
+- Used Power BI visuals to detect patterns, identify outliers, and propose analysis-driven suggestions.
 
+📁 Folder: [`Citi_Task_3_Omicron_Impact_Analysis`](./Citi_Task_3_Omicron_Impact_Analysis)
+
+**Deliverables:**
+- ✅ Slide screenshots (PNG)
+- ✅ Summary observations
+- ✅ README with inline chart previews
+
+---
+
+### 📌 Task 4 – Monthly Limits & Deposits Tracking Report
+- Investigated monthly EWT and MAT breaches using historical deposit data.
+- Created an internal report highlighting high-risk entities and proposed escalation measures.
+
+📁 Folder: [`Citi_Task_4_Monthly_Limits_Report`](./Citi_Task_4_Monthly_Limits_Report)
+
+**Deliverables:**
+- ✅ Risk triggers report (PDF)
+- ✅ Visual screenshots (PNG)
+- ✅ README with visuals and breakdown
+
+---
 ## 🔧 Tools & Skills Demonstrated
 - Microsoft Excel – formulas, logic checks, and financial calculations  
 - PowerPoint – dashboard reporting and data visualization  
